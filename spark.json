@@ -1,0 +1,7 @@
+{
+  "name": "SparkCore-SD",
+  "author": "technobly",
+  "license": "MIT",
+  "version": "0.0.10",
+  "description": "An Implementation of the Arduino/Sparkfun SD Card Library for the Spark Core"
+}
